@@ -1,0 +1,50 @@
+
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.container
+{
+    width: 99.5%;
+    height: 600px;
+    border-style: dashed;
+}
+.menu , .banner
+{
+    width: 80%;
+    border-style: dashed;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.menu{
+    height: 150px;
+}
+.banner
+{
+    height: 350px;
+    background-color: aqua;
+}
+.logo , .navbar
+{
+    width: 40%;
+    height: 100px;
+    border-style: dashed;
+}
+.navbar
+{
+    float: right;
+}
+.logo
+{
+    float: left;
+}
+.banner1 , .banner2 ,.banner3
+{
+    width: 80%;
+    height: 80px;
+    border-style: dashed;
+    margin: 0 auto;
+    margin-top: 10px;
+
+}
